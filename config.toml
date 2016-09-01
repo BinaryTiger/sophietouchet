@@ -56,8 +56,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I am anxious to become a creator. I understand that designing the interior is very important whether it’s a home, school, office or any other building as it makes a place look unique and fit for purpose. I wish to help people to live and work in appropriate and attractive spaces. I believe I can achieve that through hard work, great effort and devoting a sufficient amount of time. That is why I have chosen interior design."
+        right = "My acquaintance with art began when I entered Visual and Media Arts School in 2011. During my studies, I dealt with different forms of art and eventually I discovered interior design. After graduating, I decided to concentrate on my modeling career that brought me around the world. This experience initiated in me this eagerness to design through teamwork. Since 2015, I studied an Interior Design Training Program at Herzing College Montreal."
 
         [params.about.button]
             text = "Download theme"
@@ -113,4 +113,4 @@ theme = "hugo-freelancer-theme"
 
         [params.footer.credits]
             title = "Credit"
-            text = "Portrait by [Benjamin Edward](http://www.benjaminedward.ca)<br/>Theme by [Start Bootstrap](https://startbootstrap.com/)<br/>Maintained by [Antoine Racine](https://github.com/BinaryTiger)"
+            text = "Portrait by [Benjamin Edward](http://www.benjaminedward.ca)<br/>Maintained by [Antoine Racine](https://github.com/BinaryTiger)"

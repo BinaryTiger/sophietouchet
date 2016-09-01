@@ -102,6 +102,8 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    width: 400px;
+    height: 400px;
 }
 
 header .intro-text .name {
@@ -192,6 +194,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #4793ad;
+    text-align: justify;
 }
 
 section.success a,
@@ -223,6 +226,7 @@ section.success a.active {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border: 1px solid black;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
