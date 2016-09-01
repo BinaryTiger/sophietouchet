@@ -1,8 +1,9 @@
 # Site settings
-baseurl = "http://my-awesome-site.com/"
+baseurl = "http://portfolio-sophie-touchet.pubstorm.site/"
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
+title = "Sophie Touchet - Portfolio"
 theme = "hugo-freelancer-theme"
+ignoreFiles = [ "/static/img/Original/*" ]
 
 
 [params]
@@ -63,30 +64,6 @@ theme = "hugo-freelancer-theme"
             text = "Download theme"
             link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
             icon = "download"
-
-
-    [params.contact]
-        title = "Contact"
-
-        # 'error' defines error messages for invalid inputs
-        [params.contact.form.name]
-            text = "Name"
-            error = "Please enter your name."
-
-        [params.contact.form.email]
-            text = "Email Address"
-            error = "Please enter your email address."
-
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
-
-        [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
-
-        [params.contact.form.button]
-            text = "Send"
 
 
     [params.footer]

@@ -158,6 +158,16 @@ header .intro-text .skills {
     }
 }
 
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #4793ad;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #4793ad;
+    background-color: transparent;
+}
+
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -167,6 +177,7 @@ header .intro-text .skills {
 
 .navbar a:focus {
     outline: 0;
+    color: #4793ad !important;
 }
 
 .navbar .navbar-nav {
@@ -175,6 +186,7 @@ header .intro-text .skills {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+    color: #4793ad !important;
 }
 
 .navbar-default,
